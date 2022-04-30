@@ -1,0 +1,17 @@
+{
+    "name": "chuehnone/pbenchmark",
+    "description": "PHP benchmark",
+    "keywords": [
+        "benchmark"
+    ],
+    "license": "MIT",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Pbenchmark\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^7.3"
+    }
+}
